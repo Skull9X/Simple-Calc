@@ -316,8 +316,8 @@ while l == 'Y' :
                print('errorrr')
                           
     elif choiceT == '99':
-        break
         os.system('clear')
+        break
         	
     else :
         print("\n\t\033[0;93mInvalid Input")
