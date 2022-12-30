@@ -1,7 +1,9 @@
 # Simple-Calc
+
  A Simple Calculator to using in mathematical calculations
 
 # Installation 
+
  • Termux •
 -----------------------------------------------------
 1 - git clone https://github.com/Skull9X/Simple-Calc
@@ -12,3 +14,5 @@
 
 -----------------------------------------------------
 × Enjoy 😉×
+-----------------------------------------------------
+
