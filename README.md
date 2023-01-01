@@ -1,6 +1,6 @@
 # Simple-Calc
 
- A Simple Calculator to using in mathematical calculations
+ A Simple Calculator 
 
 # Installation 
 
